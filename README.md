@@ -28,12 +28,21 @@ doi = {10.3934/fods.2026010}
 }
 ```
 
-### Numerical Experiments and Model Comparisons
+## Numerical Experiments
 
-Contains numerical experiments for several PDEs, including:
+Contains numerical experiments for several dynamical systems, including:
 
 - [`Example1/`](./Example1/) — Analytic Example 1
 - [`Example2/`](./Example2/) — Analytic Example 2
 - [`Example3/`](./Example3/) — Analytic Example 3
 - [`Example4/`](./Example4/) - The Duffing Oscillator
 - [`Example5/`](./Example5/) - Two Link Robotic Arm
+
+## Environment
+
+The experiments were developed and tested with:
+
+- Python 3.x
+- NumPy
+- SciPy
+- Matplotlib
